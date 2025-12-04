@@ -1,4 +1,4 @@
-#################### 1. Overview
+## 1. Overview
 
 오픈소스 라이선스는 소프트웨어의 사용·복제·배포·변경·공유에 관한 권한과 제한을 규정하는 법적 체계입니다.
 각 라이선스는 소프트웨어 생태계의 ‘자유’에 대한 철학적 가치관에 따라 다양한 권한을 사용자가 누릴 수 있게 하며,
@@ -7,15 +7,15 @@
 본 파일에서는 대표적 OSS 라이선스인 GPL, MIT, Apache를 중심으로,
 각각의 특징·요구사항·차이점을 명확하게 정리합니다.
 
-2. GNU General Public License (GPL)
+## 2. GNU General Public License (GPL)
 
-2.1 개요
+### 2.1 개요
 
 GNU 프로젝트가 제정한 강한 조건의 ‘Copyleft’ 라이선스입니다.
 소프트웨어의 자유를 끝까지 보장하는 것을 우선 가치로 둡니다.
 (출처: GNU GPL v2, v3 공식문서)
 
-2.2 특징
+### 2.2 특징
 
 - 소스코드를 자유롭게 사용·수정·배포 가능
 
@@ -26,19 +26,19 @@ GNU 프로젝트가 제정한 강한 조건의 ‘Copyleft’ 라이선스입니
 
 - GPL 라이선스를 포함한 코드는 폐쇄적 소프트웨어로 병합할 수 없음
 
-2.3 대표 사용 사례
+### 2.3 대표 사용 사례
 
 Linux Kernel, WordPress, GIMP 등
 
-3. MIT License
+## 3. MIT License
 
-3.1 개요
+### 3.1 개요
 
 가장 간결하며, 제한이 극히 적은 ‘Permissive’ 라이선스입니다.
 기업·개인·상업용 어디에서든 부담이 거의 없습니다.
 (출처: MIT License 공식 원문)
 
-3.2 특징
+### 3.2 특징
 
 - 사용·복제·수정·배포·상업 이용 모두 자유
 
@@ -46,20 +46,20 @@ Linux Kernel, WordPress, GIMP 등
 
 - 원본 저작권 표시(copyright notice)와 허가 문구를 포함해야 함
 
-3.3 대표 사용 사례
+### 3.3 대표 사용 사례
 
 React, Rails, jQuery, .NET Core 등
 
 
-4. Apache License 2.0
+## 4. Apache License 2.0
    
-4.1 개요
+### 4.1 개요
 
 기업 환경에서 널리 선호되는 Permissive 계열 라이선스.
 특히 특허권 보호가 잘 마련되어 있음. (특허 라이선스 부여)
 (출처: Apache License 2.0 공식 문서)
 
-4.2 특징
+### 4.2 특징
 
 - 사용·수정·배포·상업 이용 모두 자유
 
@@ -70,12 +70,12 @@ React, Rails, jQuery, .NET Core 등
 
 - 변경한 파일에는 변경 사실을 명시해야 함
 
-4.3 대표 사용 사례
+### 4.3 대표 사용 사례
 
 Apache HTTP Server, Android, Flutter, Kubernetes 등
 
 
-5. 결론
+## 5. 결론
 
 GPL: 자유 공유 중심의 철학, 강한 소스 공개 의무 → 공동체 중심 프로젝트에 적합
 
